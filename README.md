@@ -40,6 +40,9 @@ func main() {
 }
 ```
 
+Result:
+![image](https://github.com/user-attachments/assets/057fafb2-346b-48d8-8adb-4da1edc4de50)
+
 ### Formatted Logging
 
 ``` go
