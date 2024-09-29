@@ -112,6 +112,7 @@ Customization
 
 The style package can be customized by modifying the Config map to change the prefix and color of each status. This allows for flexible and consistent logging output.
 
+![image](https://github.com/user-attachments/assets/21c4f4a4-adda-4b3b-b3dc-4a57b14f0828)
 
 ### License
 This package is provided as-is with no specific licensing. Feel free to modify and adapt it to your needs.
