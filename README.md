@@ -20,7 +20,7 @@ To install the `style` package, you can simply include it in your project by cop
 
 ```bash
 go get [https://github.com/DanyelMorales/style](https://github.com/DanyelMorales/style)
-
+```
 
 ## Usage
 
