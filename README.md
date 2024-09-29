@@ -19,7 +19,7 @@ The purpose of the `style` package is to enhance logging by offering structured 
 To install the `style` package, you can simply include it in your project by copying the source code or adding it to your Go module.
 
 ```bash
-go get [https://github.com/DanyelMorales/style](https://github.com/DanyelMorales/style)
+go get  github.com/DanyelMorales/style
 ```
 
 ## Usage
