@@ -111,3 +111,7 @@ Core Logging Functions
 Customization
 
 The style package can be customized by modifying the Config map to change the prefix and color of each status. This allows for flexible and consistent logging output.
+
+
+### License
+This package is provided as-is with no specific licensing. Feel free to modify and adapt it to your needs.
